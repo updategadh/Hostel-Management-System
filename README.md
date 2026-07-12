@@ -7,6 +7,11 @@ For full source code, documentation, and support, visit: [updategadh.com](https:
 ## Overview
 The Hostel Management System is a role-based web application designed for colleges and educational institutions to manage hostel registration, room allocation, complaint handling, and internal communication between students, hostel managers, and administrators.
 
+## Screenshot
+<img width="1870" height="525" alt="image" src="https://github.com/user-attachments/assets/07ff73d8-e261-476d-8972-e823471b786c" />
+<img width="1904" height="566" alt="image" src="https://github.com/user-attachments/assets/735786c7-f67f-4175-87a6-8b7129f5cc4d" />
+
+
 ## Project Objective
 The main goal of the system is to simplify hostel operations by providing a centralized platform where:
 - students can register and apply for hostel accommodation,
