@@ -1,5 +1,9 @@
 # Hostel Management System - Project Report
 
+## More Details / Buy This Project
+
+For full source code, documentation, and support, visit: [updategadh.com](https://updategadh.com/hostel-management-system-php-and-mysql/)
+
 ## Overview
 The Hostel Management System is a role-based web application designed for colleges and educational institutions to manage hostel registration, room allocation, complaint handling, and internal communication between students, hostel managers, and administrators.
 
