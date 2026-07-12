@@ -1,4 +1,4 @@
-# Hostel Management System - Project Report
+# Hostel Management System -
 
 ## More Details / Buy This Project
 
